@@ -32,7 +32,7 @@ void scr_setup() {
   img_osh  = loadImage("../common/Logo_OSHW.png");
 
   // screen min/max/span
-  scr_Xmin = (float) 0;
+  scr_Xmin = (float) 200;
   scr_Xmax = (float) width - 1;
   scr_Ymin = (float) 72;
   scr_Ymax = (float) height - 1;
@@ -348,3 +348,34 @@ void analyze_accelerations_on_screen() {
 }
 
 
+
+
+void mouseClicked() {
+  if (mouseX < 200) {
+     println (mouseX + " / " + mouseY);
+     
+    String hpgl_file;
+    background (224); plot_remove(1);
+    String demo_files = "armadillo,Black_Horse,Camel,piggie_sihouette,seahorse_silhouette,unicorn,deer_matt_todd_01,turtle-outline,elephant-animal-outline,sportscar-outline,MfK_Logo_001,DIY";
+    String[] list = split(demo_files, ',');
+    hpgl_file = "../../drawings/samples/" + list[int(random(0, list.length))] + ".hpgl";
+    gen_hpgl(hpgl_file);
+    scr_normalize(); bot_normalize(); scr_redraw(0);
+
+    pushStyle();
+    textAlign(CENTER, CENTER);
+    ellipseMode(CENTER);
+    
+    for (int i = 0; i < 8; i ++) {
+      float y = scr_Ymin + int(((i * 2 + 1) * scr_Yspan) / (2 * 8));
+      noStroke(); fill(192);
+      rect (10, y - 20, 80, 42);
+      noStroke(); fill(128);
+      text("Sym.\nTree", 50, y);
+    }
+    pushStyle();
+
+  }
+  
+
+}

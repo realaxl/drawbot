@@ -765,12 +765,16 @@ void plot_optimize() {
   ArrayList opt=new ArrayList();
 
   float opt_Xmin = 0, opt_Xmax = 0, opt_Ymin = 0, opt_Ymax = 0;
+  float opt_Xstart = 0, opt_Ystart = 0;
 
   ii = 0;
   for (i = 0; i < plot.size(); i ++) {
     t_plot = (plot_c) plot.get(i);
     if ((t_plot.m == 'm') || (i == plot.size()-1)) {
       if (i > ii) {
+        if ((opt_Xstart == t_plot.X) && (opt_Ystart == t_plot.Y))
+          println("closed loop segment: " + ii + " - " + i);
+
         s = "";
         f = Ymax - ((opt_Ymax + opt_Ymin) / 2);
         s = s + nf(floor(f / Yspan * 99), 2, 0) + ".";
@@ -786,8 +790,8 @@ void plot_optimize() {
 
         s = s + nf(ii, 1) + ".";
 
-        f = sqrt(sq(opt_Xmax - opt_Xmin) + sq(opt_Ymax - opt_Ymin));
-        if (f >= size_limit)
+        //f = sqrt(sq(opt_Xmax - opt_Xmin) + sq(opt_Ymax - opt_Ymin));
+        //if (f >= size_limit)
           opt.add(new String(s));
         println(s);
       }
@@ -797,6 +801,8 @@ void plot_optimize() {
       opt_Xmax = t_plot.X;
       opt_Ymin = t_plot.Y;
       opt_Ymax = t_plot.Y;
+      opt_Xstart = t_plot.X;
+      opt_Ystart = t_plot.Y;
 //    println("Segment m start: " + nf(ii, 1));
     } else {
       opt_Xmin = min(opt_Xmin, t_plot.X);
