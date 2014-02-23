@@ -1,0 +1,75 @@
+<?xml version="1.0"?>
+<drawbot>
+	<bot_0>
+		<default>
+			<cfg id="name">Jochen's Baumarkt-Drawbot</cfg>
+			<cfg id="canvas" Xmin="-20" Xmax="+20" Ymin="-220" Ymax="+260">DIN A3 minimal border</cfg>
+			<cfg id="speed" move_delay="3" line_delay="20" move_ff_delay="20">Whiteboard only (fast)</cfg>
+			<cfg id="ramps" ramp_acc="5" ramp_dec="5">Whiteboard ramps only (fast)</cfg>
+			<cfg id="geometry" deskew="0"></cfg>
+		</default>
+	</bot_0>
+
+	<bot_0X>
+		<default>
+			<cfg id="name">Jochen's Tafel-Drawbot</cfg>
+			<cfg id="canvas" Xmin="-220" Xmax="+220" Ymin="-280" Ymax="+280">DIN A3 minimal border</cfg>
+			<!-- <cfg id="canvas" Xmin="-200" Xmax="+200" Ymin="-200" Ymax="+200">DIN A3 minimal border</cfg> -->
+			<cfg id="speed" move_delay="15" line_delay="20" move_ff_delay="5">Whiteboard only (fast)</cfg>
+			<cfg id="geometry" deskew="0"></cfg>
+		</default>
+	</bot_0X>
+
+	<bot_1>
+		<default>
+			<cfg id="name">AXL's Whiteboard Drawbot</cfg>
+			<cfg id="canvas" Xmin="-228" Xmax="+228" Ymin="-144" Ymax="+144">DIN A3 minimal border</cfg>
+			<cfg id="speed" move_delay="40" line_delay="10" move_ff_delay="5">Whiteboard only (fast)</cfg>
+			<cfg id="geometry" deskew="1"></cfg>
+		</default>
+	</bot_1>
+	<bot_2>
+		<default>
+			<cfg id="name">Jochen's Baumarkt-Drawbot</cfg>
+			<cfg id="canvas" Xmin="-120" Xmax="+120" Ymin="-100" Ymax="+160">DIN A3 minimal border</cfg>
+			<cfg id="speed" move_delay="10" line_delay="50" move_ff_delay="10">Whiteboard only (fast)</cfg>
+			<cfg id="ramps" ramp_acc="3" ramp_dec="6">Whiteboard ramps only (fast)</cfg>
+			<cfg id="geometry" deskew="0"></cfg>
+		</default>
+	</bot_2>
+	
+	
+	<bot_3>
+		<default>
+			<cfg id="canvas" Xmin="-0210" Xmax="+0210" Ymin="-0150" Ymax="+0250">DIN A3 minimal border</cfg>
+			<cfg id="speed" move_delay="20" line_delay="50">Whiteboard only (fast)</cfg>
+		</default>
+	</bot_3>
+	<bot_4>
+		<default>
+			<cfg id="canvas" Xmin="-0210" Xmax="+0210" Ymin="-0150" Ymax="+0250">DIN A3 minimal border</cfg>
+			<cfg id="speed" move_delay="20" line_delay="50">Whiteboard only (fast)</cfg>
+		</default>
+	</bot_4>
+	<bot_5>
+		<default>
+			<cfg id="canvas" Xmin="-0210" Xmax="+0210" Ymin="-0150" Ymax="+0250">DIN A3 minimal border</cfg>
+			<cfg id="speed" move_delay="20" line_delay="50">Whiteboard only (fast)</cfg>
+		</default>
+	</bot_5>
+	<bot_6>
+		<default>
+			<cfg id="canvas" Xmin="-0210" Xmax="+0210" Ymin="-0150" Ymax="+0250">DIN A3 minimal border</cfg>
+			<cfg id="speed" move_delay="20" line_delay="50">Whiteboard only (fast)</cfg>
+		</default>
+	</bot_6>
+	<bot_7>
+		<default>
+			<cfg id="name">Jochen's Baumarkt-Drawbot</cfg>
+			<cfg id="canvas" Xmin="-220" Xmax="+220" Ymin="-240" Ymax="+280">DIN A3 minimal border</cfg>
+			<cfg id="speed" move_delay="3" line_delay="20" move_ff_delay="20">Whiteboard only (fast)</cfg>
+			<cfg id="ramps" ramp_acc="5" ramp_dec="5">Whiteboard ramps only (fast)</cfg>
+			<cfg id="geometry" deskew="0"></cfg>
+		</default>
+	</bot_7>
+</drawbot>

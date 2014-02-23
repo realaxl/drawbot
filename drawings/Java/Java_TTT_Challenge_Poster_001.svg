@@ -1,0 +1,197 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Generator: Adobe Illustrator 13.0.0, SVG Export Plug-In . SVG Version: 6.00 Build 14948)  -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   version="1.1"
+   id="Layer_1"
+   x="0px"
+   y="0px"
+   width="1000"
+   height="1000"
+   viewBox="0 0 999.99998 999.99997"
+   enable-background="new 0 0 225.938 407.407"
+   xml:space="preserve"
+   inkscape:version="0.48.4 r9939"
+   sodipodi:docname="Java_Wave_Drawbot.svg"><metadata
+   id="metadata44"><rdf:RDF><cc:Work
+       rdf:about=""><dc:format>image/svg+xml</dc:format><dc:type
+         rdf:resource="http://purl.org/dc/dcmitype/StillImage" /><dc:title></dc:title></cc:Work></rdf:RDF></metadata><defs
+   id="defs42"><inkscape:perspective
+   sodipodi:type="inkscape:persp3d"
+   inkscape:vp_x="0 : 203.70351 : 1"
+   inkscape:vp_y="0 : 1000 : 0"
+   inkscape:vp_z="225.938 : 203.70351 : 1"
+   inkscape:persp3d-origin="112.969 : 135.80234 : 1"
+   id="perspective46" />
+	
+	
+	<radialGradient
+   gradientUnits="userSpaceOnUse"
+   r="54.7155"
+   cy="167.06931"
+   cx="86.629898"
+   id="SVGID_1_">
+		<stop
+   id="stop18"
+   style="stop-color:#FFFFFF"
+   offset="0" />
+		<stop
+   id="stop20"
+   style="stop-color:#FBC8B4"
+   offset="0.0604" />
+		<stop
+   id="stop22"
+   style="stop-color:#FBC3B0"
+   offset="0.0712" />
+		<stop
+   id="stop24"
+   style="stop-color:#F7978B"
+   offset="0.1829" />
+		<stop
+   id="stop26"
+   style="stop-color:#F4716B"
+   offset="0.2995" />
+		<stop
+   id="stop28"
+   style="stop-color:#F15251"
+   offset="0.4199" />
+		<stop
+   id="stop30"
+   style="stop-color:#EF3A3D"
+   offset="0.5453" />
+		<stop
+   id="stop32"
+   style="stop-color:#EE292F"
+   offset="0.6778" />
+		<stop
+   id="stop34"
+   style="stop-color:#ED1F27"
+   offset="0.822" />
+		<stop
+   id="stop36"
+   style="stop-color:#ED1C24"
+   offset="1" />
+	</radialGradient>
+	
+</defs><sodipodi:namedview
+   pagecolor="#ffffff"
+   bordercolor="#666666"
+   borderopacity="1"
+   objecttolerance="10"
+   gridtolerance="10"
+   guidetolerance="10"
+   inkscape:pageopacity="0"
+   inkscape:pageshadow="2"
+   inkscape:window-width="1366"
+   inkscape:window-height="706"
+   id="namedview40"
+   showgrid="false"
+   showguides="true"
+   inkscape:guide-bbox="true"
+   inkscape:zoom="0.7071068"
+   inkscape:cx="488.33003"
+   inkscape:cy="461.1855"
+   inkscape:window-x="-8"
+   inkscape:window-y="-8"
+   inkscape:window-maximized="1"
+   inkscape:current-layer="Layer_1" />
+
+
+
+
+<path
+   id="path15"
+   style="fill:none;stroke:#000000;stroke-opacity:1"
+   d="m 719.73524,620.73854 c -0.60929,6.85394 -1.08807,13.56085 -1.41478,20.12555 -1.008,19.728 2.016,27.504 14.904,27.504 22.752,0 51.624,-47.952 87.84,-46.872 36.288,1.08 47.808,55.00802 64.8,54.648 16.992,-0.36 30.672,-6.264 30.816,-58.752 0.14391,-44.73469 -10.46371,-87.05677 -26.58291,-125.18794 -5.976,-15.984 -5.09709,-36.95606 4.11891,-49.98806 9.216,-13.032 1.44,-42.048 6.336,-54.792 4.896,-12.744 16.272,-9.144 19.944,-28.944 3.672,-19.8 -11.952,-33.408 0.144,-58.536 12.096,-25.128 -6.912,-24.984 -15.264,-18.864 -8.352,6.12 -10.44,21.024 -13.896,32.76 -11.376,-12.384 -5.04,-42.768 -19.656,-44.784 -14.616,-2.016 -13.896,5.832 -14.256,16.128 -0.36,10.296 1.368,17.64 6.048,35.352 -15.912,-12.024 -14.76,-38.304 -28.656,-33.192 -13.896,5.112 -10.224,17.064 -5.256,30.096 4.968,13.032 11.592,25.56 22.896,36.864 -12.672,2.088 -29.664,7.632 -25.056,20.736 4.608,13.104 15.192,3.24 25.056,3.96 9.864,0.72 16.92,10.584 26.784,11.304 9.864,0.72 12.096,19.872 11.232,35.064 -0.85222,14.98485 -20.62264,24.57076 -28.83398,11.92528 C 821.17855,370.78507 769.3021,324.45598 747.48046,312.25609 l 0,0 0,0 0,0 c 6.42547,13.45503 4.6406,88.31999 -0.92352,142.0594 -7.39423,50.63543 -32.77248,56.9486 -34.06848,78.0446 -1.296,21.096 6.84,23.112 6.336,42.624 -0.504,19.512 -17.856,27.432 -19.944,38.016 -2.088,10.584 8.928,13.968 15.336,13.968 1.87089,0 3.74177,-2.39357 5.51768,-6.22743 4.30681,-9.29757 8.05508,-27.06582 9.89032,-39.70857 1.09262,-7.52689 -0.24557,-13.74883 -2.15938,-19.34532 -2.6263,-7.68003 -6.33662,-14.18224 -6.33662,-21.26268 0,-12.24 15.96526,-34.77302 13.01326,-15.11702 -2.36832,11.77207 -4.62193,24.01174 -6.67564,36.37658 M 845.70346,440.27109 c -0.35968,-3.72123 -1.23843,-7.14263 -2.56185,-10.24643 -4.79184,-11.23818 -15.4134,-18.31257 -28.33315,-20.38057 -15.92402,-2.54888 -33.26,4.998 -44.408,16.146 -11.90031,11.90032 -12.9569,28.21668 -5.52712,42.54735 0.39813,0.76791 0.82062,1.53012 1.26712,2.28565 8.661,14.657 27.847,19.501 43.563,15.835 21.506,-5.015 37.398,-23.824 36,-46.187 m -80.82537,28.07312 c -2.725,1.85776 -5.36465,3.65679 -7.96463,5.40688 l 0,0 0,0 0,0 c -5.616,27.504 -40.68,181.08 -22.824,183.024 17.856,1.944 43.272,-47.52 84.888,-47.16 41.688,0.36 58.104,55.44 68.256,55.08 10.152,-0.36 16.848,3.6 17.928,-58.464 1.08,-62.064 -36.792,-141.336 -59.184,-176.256 -0.98591,0.0631 -1.77503,0.10286 -2.76549,0.21209"
+   inkscape:connector-curvature="0" />
+<text
+   xml:space="preserve"
+   style="font-size:40px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
+   x="240.24979"
+   y="661.20905"
+   id="text2994"
+   sodipodi:linespacing="125%"><tspan
+     sodipodi:role="line"
+     x="240.24979"
+     y="661.20905"
+     style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:Arial;-inkscape-font-specification:Arial Bold;font-size:35.99999928px"
+     id="tspan3000">15.02.2014: The Ultimate</tspan><tspan
+     sodipodi:role="line"
+     x="240.24979"
+     y="731.26282"
+     id="tspan2998"
+     style="font-size:64px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:Arial;-inkscape-font-specification:Arial Bold">Tic Tac Toe Challenge</tspan></text>
+<g
+   transform="matrix(0.59833832,0,0,0.59833832,476.43242,350.97208)"
+   id="g3000"
+   style="fill:none;stroke:#000000"><path
+     inkscape:connector-curvature="0"
+     id="path3"
+     d="m 102.681,291.324 c 0,0 -14.178,8.245 10.09,11.035 29.4,3.354 44.426,2.873 76.825,-3.259 0,0 8.518,5.341 20.414,9.967 -72.63,31.128 -164.376,-1.803 -107.329,-17.743"
+     style="fill:none;stroke:#000000" /><path
+     inkscape:connector-curvature="0"
+     id="path5"
+     d="m 93.806,250.704 c 0,0 -15.902,11.771 8.384,14.283 31.406,3.24 56.208,3.505 99.125,-4.759 0,0 5.936,6.018 15.27,9.309 -87.814,25.678 -185.623,2.025 -122.779,-18.833"
+     style="fill:none;stroke:#000000" /><path
+     inkscape:connector-curvature="0"
+     id="path7"
+     d="m 168.625,181.799 c 17.896,20.604 -4.702,39.145 -4.702,39.145 0,0 45.441,-23.458 24.572,-52.833 -19.491,-27.394 -34.438,-41.005 46.479,-87.934 0,0 -127.013,31.722 -66.349,101.622"
+     style="fill:none;stroke:#000000" /><path
+     inkscape:connector-curvature="0"
+     id="path9"
+     d="m 264.684,321.369 c 0,0 10.492,8.645 -11.555,15.333 -41.923,12.7 -174.488,16.535 -211.314,0.506 -13.238,-5.759 11.587,-13.751 19.396,-15.428 8.144,-1.766 12.798,-1.437 12.798,-1.437 -14.722,-10.371 -95.157,20.364 -40.857,29.166 148.084,24.015 269.943,-10.814 231.532,-28.14"
+     style="fill:none;stroke:#000000" /><path
+     inkscape:connector-curvature="0"
+     id="path11"
+     d="m 109.499,208.617 c 0,0 -67.431,16.016 -23.879,21.832 18.389,2.462 55.047,1.905 89.193,-0.956 27.906,-2.354 55.927,-7.359 55.927,-7.359 0,0 -9.84,4.214 -16.959,9.075 -68.475,18.009 -200.756,9.631 -162.674,-8.79 32.206,-15.568 58.392,-13.802 58.392,-13.802"
+     style="fill:none;stroke:#000000" /><path
+     inkscape:connector-curvature="0"
+     id="path13"
+     d="m 230.462,276.231 c 69.608,-36.171 37.424,-70.931 14.96,-66.248 -5.506,1.146 -7.961,2.139 -7.961,2.139 0,0 2.044,-3.202 5.948,-4.588 44.441,-15.624 78.619,46.081 -14.346,70.52 0,0.001 1.077,-0.962 1.399,-1.823"
+     style="fill:none;stroke:#000000" /><path
+     inkscape:connector-curvature="0"
+     id="path15-1"
+     d="m 188.495,4.399 c 0,0 38.55,38.563 -36.563,97.862 -60.233,47.568 -13.735,74.69 -0.025,105.678 C 116.748,176.217 90.946,148.292 108.256,122.302 133.663,84.151 204.049,65.654 188.495,4.399"
+     style="fill:none;stroke:#000000" /><path
+     inkscape:connector-curvature="0"
+     id="path17"
+     d="m 116.339,374.246 c 66.815,4.277 169.417,-2.373 171.847,-33.988 0,0 -4.671,11.985 -55.219,21.503 -57.028,10.732 -127.364,9.479 -169.081,2.601 10e-4,-0.001 8.54,7.068 52.453,9.884"
+     style="fill:none;stroke:#000000" /></g><g
+   id="g3075"
+   transform="translate(-182.33601,-38.183764)"><text
+     sodipodi:linespacing="125%"
+     id="text2994-7"
+     y="450.72861"
+     x="438.03864"
+     style="font-size:32.32302856px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
+     xml:space="preserve"><tspan
+       id="tspan3063"
+       style="font-size:45.25223923px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:Arial;-inkscape-font-specification:Arial Bold"
+       y="450.72861"
+       x="438.03864"
+       sodipodi:role="line">DARMSTADT</tspan></text>
+<text
+     xml:space="preserve"
+     style="font-size:40px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
+     x="433.26196"
+     y="402.6857"
+     id="text3067"
+     sodipodi:linespacing="125%"><tspan
+       sodipodi:role="line"
+       x="433.26196"
+       y="402.6857"
+       id="tspan3069"
+       style="font-size:144px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:Arial;-inkscape-font-specification:Arial Bold">JUG</tspan><tspan
+       sodipodi:role="line"
+       x="433.26196"
+       y="582.68567"
+       style="font-size:56px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:Arial;-inkscape-font-specification:Arial Bold"
+       id="tspan3071" /></text>
+</g></svg>
